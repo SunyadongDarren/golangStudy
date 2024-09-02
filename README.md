@@ -1,2 +1,1 @@
-# golangStudy
-个人总结
+--个人golang的总结
