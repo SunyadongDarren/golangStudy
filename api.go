@@ -1,6 +1,8 @@
 package golangStudy
 
-import "fmt"
+import (
+	"fmt"
+)
 
 func HelloGolangStudy(name string) string {
 	if len(name) == 0 {
